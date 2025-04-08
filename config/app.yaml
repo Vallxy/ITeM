@@ -1,0 +1,186 @@
+a11:
+  apk_path: 'ITeM_Dataset/subject_apps/a1-browser/a11-acr.browser.lightning_96.apk'
+  appPackage: 'acr.browser.lightning'
+  appActivity: 'acr.browser.lightning.MainActivity'
+
+a12:
+  apk_path: 'ITeM_Dataset/subject_apps/a1-browser/a12-Browser for Android_v1.3.1_apkpure.com.apk'
+  appPackage: 'com.android.browser'
+  appActivity: 'com.android.browser.BrowserActivity'
+
+a13:
+  apk_path: 'ITeM_Dataset/subject_apps/a1-browser/a13-com.stoutner.privacybrowser.standard_33.apk'
+  appPackage: 'com.stoutner.privacybrowser.standard'
+  appActivity: 'com.stoutner.privacybrowser.activities.MainWebViewActivity'
+
+a14:
+  apk_path: 'ITeM_Dataset/subject_apps/a1-browser/a14-de.baumann.browser_80.apk'
+  appPackage: 'de.baumann.browser'
+  appActivity: 'de.baumann.browser.Activity.BrowserActivity'
+
+a15:
+  apk_path: 'ITeM_Dataset/subject_apps/a1-browser/a15-Firefox Focus The privacy browser_v6.0_apkpure.com.apk'
+  appPackage: 'org.mozilla.focus'
+  appActivity: 'org.mozilla.focus.activity.MainActivity'
+
+a21:
+  apk_path: 'ITeM_Dataset/subject_apps/a2-todo/a21-com.rubenroy.minimaltodo_3.apk'
+  appPackage: 'com.rubenroy.minimaltodo'
+  appActivity: 'com.rubenroy.minimaltodo.MainActivity'
+
+a22:
+  apk_path: 'ITeM_Dataset/subject_apps/a2-todo/a22-douzifly.list_21.apk'
+  appPackage: 'douzifly.list'
+  appActivity: 'douzifly.list.ui.home.MainActivity'
+
+a23:
+  apk_path: 'ITeM_Dataset/subject_apps/a2-todo/a23-org.secuso.privacyfriendlytodolist_4.apk'
+  appPackage: 'org.secuso.privacyfriendlytodolist'
+  appActivity: 'org.secuso.privacyfriendlytodolist.view.MainActivity'
+
+a24:
+  apk_path: 'ITeM_Dataset/subject_apps/a2-todo/a24-kdk.android.simplydo_1.apk'
+  appPackage: 'kdk.android.simplydo'
+  appActivity: 'kdk.android.simplydo.SimplyDoActivity'
+
+a25:
+  apk_path: 'ITeM_Dataset/subject_apps/a2-todo/a25-com.woefe.shoppinglist_11.apk'
+  appPackage: 'com.woefe.shoppinglist'
+  appActivity: 'com.woefe.shoppinglist.activity.MainActivity'
+
+a31:
+  apk_path: 'ITeM_Dataset/subject_apps/a3-shopping/a31-Geek Smarter Shopping_v2.3.7_apkpure.com.apk'
+  appPackage: 'com.contextlogic.geek'
+  appActivity: 'com.contextlogic.wish.activity.login.LoginActivity'
+
+a32:
+  apk_path: 'ITeM_Dataset/subject_apps/a3-shopping/a32-Wish Shopping Made Fun_v4.22.6_apkpure.com.apk'
+  appPackage: 'com.contextlogic.wish'
+  appActivity: 'com.contextlogic.wish.activity.login.signin.SignInActivity'
+
+a33:
+  apk_path: 'ITeM_Dataset/subject_apps/a3-shopping/a33-Rainbow Shops Womens and Plus Size Clothing_v1.2.9_apkpure.com.apk'
+  appPackage: 'com.rainbowshops'
+  appActivity: 'com.rainbowshops.activity.ProfileActivity'
+
+a34:
+  apk_path: 'ITeM_Dataset/subject_apps/a3-shopping/a34-Etsy Handmade Vintage Goods_v5.6.0_apkpure.com.apk'
+  appPackage: 'com.etsy.android'
+  appActivity: 'com.etsy.android.ui.homescreen.HomescreenTabsActivity'
+
+a35:
+  apk_path: 'ITeM_Dataset/subject_apps/a3-shopping/a35-Yelp Food Shopping Services Nearby_v10.21.1-21020803_apkpure.com.apk'
+  appPackage: 'com.yelp.android'
+  appActivity: 'com.yelp.android.nearby.ui.ActivityNearby'
+
+a41:
+  apk_path: 'ITeM_Dataset/subject_apps/a4-mail/a41-com.fsck.k9_23630.apk'
+  appPackage: 'com.fsck.k9'
+  appActivity: 'com.fsck.k9.activity.Accounts'
+  noReset: True
+
+a42:
+  apk_path: 'ITeM_Dataset/subject_apps/a4-mail/a42-Email mail box fast mail_v1.12.20_apkpure.com.apk'
+  appPackage: 'com.appple.app.email'
+  appActivity: 'com.fsck.k9.activity.Accounts'
+  noReset: True
+
+a43:
+  apk_path: 'ITeM_Dataset/subject_apps/a4-mail/a43-Mail Ru Email App_v7.5.0.24869_apkpure.com.apk'
+  appPackage: 'ru.mail.mailapp'
+  appActivity: 'ru.mail.mailapp.SplashScreenActivity'
+  noReset: True
+
+a44:
+  apk_path: 'ITeM_Dataset/subject_apps/a4-mail/a44-myMail_Email for Hotmail Gmail and Outlook Mail_v7.5.0.24869_apkpure.com.apk'
+  appPackage: 'com.my.mail'
+  appActivity: 'ru.mail.mailapp.SplashScreenActivity'
+  noReset: True
+
+a45:
+  apk_path: 'ITeM_Dataset/subject_apps/a4-mail/a45-Email App for Outlook others_v6.6.0.24788_apkpure.com.apk'
+  appPackage: 'com.google.android.gm'
+  appActivity: 'com.google.android.gm/.ConversationListActivityGmail'
+  noReset: True
+
+a51:
+  apk_path: 'ITeM_Dataset/subject_apps/a5-tip/a51-Tip Calculator_v1.1_apkpure.com.apk'
+  appPackage: 'anti.tip'
+  appActivity: 'anti.tip.Tip'
+
+a52:
+  apk_path: 'ITeM_Dataset/subject_apps/a5-tip/a52-Tip Calc_v1.11_apkpure.com.apk'
+  appPackage: 'com.appsbyvir.tipcalculator'
+  appActivity: 'com.appsbyvir.tipcalculator.MainActivity'
+
+a53:
+  apk_path: 'ITeM_Dataset/subject_apps/a5-tip/a53-Simple Tip Calculator_v1.2_apkpure.com.apk'
+  appPackage: 'com.tleapps.simpletipcalculator'
+  appActivity: 'com.tleapps.simpletipcalculator.MainActivity'
+
+a54:
+  apk_path: 'ITeM_Dataset/subject_apps/a5-tip/a54-Tip Calculator Plus_v2.0_apkpure.com.apk'
+  appPackage: 'com.zaidisoft.teninone'
+  appActivity: 'com.zaidisoft.teninone.Calculator'
+
+a55:
+  apk_path: 'ITeM_Dataset/subject_apps/a5-tip/a55-Free Tip Calculator_v1.0.0.9_apkpure.com.apk'
+  appPackage: 'com.jpstudiosonline.tipcalculator'
+  appActivity: 'com.jpstudiosonline.tipcalculator.MainActivity'
+
+a61:
+  apk_path: 'ITeM_Dataset/subject_apps/a6-news/a61-ABCNews.apk'
+  appPackage: 'com.abc.abcnews'
+  appActivity: 'com.abc.abcnews.ui.navigation.MainNavigationActivity'
+  noReset: True
+
+a62:
+  apk_path: 'ITeM_Dataset/subject_apps/a6-news/a62-BuzzFeed.apk'
+  appPackage: 'com.buzzfeed.android'
+  appActivity: 'com.buzzfeed.android.activity.PagerActivity'
+
+a63:
+  apk_path: 'ITeM_Dataset/subject_apps/a6-news/a63-SmartNews.apk'
+  appPackage: 'jp.gocro.smartnews.android'
+  appActivity: 'jp.gocro.smartnews.android.activity.MainActivity'
+  noReset: True
+
+a64:
+  apk_path: 'ITeM_Dataset/subject_apps/a6-news/a64-GoogleNews.apk'
+  appPackage: 'com.google.android.apps.magazines'
+  appActivity: 'com.google.apps.dots.android.newsstand.home.HomeActivity'
+  noReset: True
+
+a65:
+  apk_path: 'ITeM_Dataset/subject_apps/a6-news/a65-MailOnline.apk'
+  appPackage: 'com.dailymail.online'
+  appActivity: 'com.dailymail.online.presentation.home.ChannelNavigatorActivity'
+  noReset: True
+
+a71:
+  apk_path: 'ITeM_Dataset/subject_apps/a7-music/a71-VinylMusicPlayer.apk'
+  appPackage: 'com.poupa.vinylmusicplayer'
+  appActivity: 'com.poupa.vinylmusicplayer/com.poupa.vinylmusicplayer.ui.activities.MainActivity'
+  noReset: True
+
+a72:
+  apk_path: 'ITeM_Dataset/subject_apps/a7-music/a72-APlayer.apk'
+  appPackage: 'remix.myplayer'
+  appActivity: '.ui.activity.MainActivity'
+
+a73:
+  apk_path: 'ITeM_Dataset/subject_apps/a7-music/a73-Auxio.apk'
+  appPackage: 'org.oxycblt.auxio'
+  appActivity: 'org.oxycblt.auxio.MainActivity'
+
+a74:
+  apk_path: 'ITeM_Dataset/subject_apps/a7-music/a74-RetroMusic.apk'
+  appPackage: 'code.name.monkey.retromusic'
+  appActivity: 'code.name.monkey.retromusic.activities.MainActivity'
+  noReset: True
+
+a75:
+  apk_path: 'ITeM_Dataset/subject_apps/a7-music/a75-Phonograph.apk'
+  appPackage: 'player.phonograph.plus'
+  appActivity: 'player.phonograph.ui.modules.main.MainActivity'
+  noReset: True
