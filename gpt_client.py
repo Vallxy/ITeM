@@ -252,8 +252,8 @@ class GPTClient:
                 time.sleep(self.ACTION_SLEEP_INTERVAL)
             else:
                 rect = el.rect
-                end_x, end_y, start_x, start_y = rect['x'] + rect['width'] / 4, rect['y'] + rect['height'] / 2, \
-                                                 rect['x'] + rect['width'] * 3 / 4, rect['y'] + rect['height'] / 2
+                end_x, end_y, start_x, start_y = rect['x'] + rect['width'] * 3 / 4, rect['y'] + rect['height'] / 2, \
+                                                 rect['x'] + rect['width'] / 4, rect['y'] + rect['height'] / 2
                 driver.swipe(start_x, start_y, end_x, end_y, 500)
                 time.sleep(self.ACTION_SLEEP_INTERVAL)
 
