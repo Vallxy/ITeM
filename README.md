@@ -23,7 +23,26 @@ state-of-the-art approaches.
 
 ## Citation
 
-Coming soon
+```bibtex
+@article{DBLP:journals/pacmse/ITeM,
+  author       = {Shaoheng Cao and
+                  Minxue Pan and
+                  Yuanhong Lan and
+                  Xuandong Li},
+  title        = {Intention-Based {GUI} Test Migration for Mobile Apps using Large Language
+                  Models},
+  journal      = {Proc. {ACM} Softw. Eng.},
+  volume       = {2},
+  number       = {{ISSTA}},
+  pages        = {2296--2318},
+  year         = {2025},
+  url          = {https://doi.org/10.1145/3728978},
+  doi          = {10.1145/3728978},
+  timestamp    = {Thu, 11 Sep 2025 20:25:23 +0200},
+  biburl       = {https://dblp.org/rec/journals/pacmse/CaoPLL25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 ## Code
 
